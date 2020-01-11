@@ -24,7 +24,7 @@ Depending on the significance level that the scientific community deems acceptab
 
 In this example, our p-value is 0.0001, which is less than alpha. Thus, we can reject our null hypothesis and support the alternate hypothesis. Your clients do eat more fruit than the national average. You do deserve a raise and recognition!
 
-![puppies](https://gph.is/1Q3Ksr2)
+![puppies](https://giphy.com/gifs/more-watermelon-mmmm-Gc3WkGuR4Ijgk)
 
 
 ## Common Misconception of the p-value
