@@ -39,4 +39,4 @@ It is important to set the significance level before analyzing your results for 
 For further reading, I suggest this [article](http://theconversation.com/give-p-a-chance-significance-testing-is-misunderstood-20207) as it has many interesting links.
 
 **References**
-Dorey, F. (2010). In Brief: The P Value: What it is and What Does it Tell you? Clinical Orthopaedic and Related Research. 468(8): 2297–2298. doi: 10.1007/s11999-010-1402-9
+- Dorey, F. (2010). In Brief: The P Value: What it is and What Does it Tell you? Clinical Orthopaedic and Related Research. 468(8): 2297–2298. doi: 10.1007/s11999-010-1402-9
