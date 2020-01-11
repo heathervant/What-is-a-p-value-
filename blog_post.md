@@ -40,3 +40,4 @@ For further reading, I suggest this [article](http://theconversation.com/give-p-
 
 **References**
 - Dorey, F. (2010). In Brief: The P Value: What it is and What Does it Tell you? Clinical Orthopaedic and Related Research. 468(8): 2297–2298. doi: 10.1007/s11999-010-1402-9
+- The analysis of biological data. Michael C. Whitlock and Dolph Schluter. Second edition. 2015. ISBN 978-1-936221-48-6
