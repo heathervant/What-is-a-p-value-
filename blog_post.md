@@ -24,10 +24,7 @@ Depending on the significance level that the scientific community deems acceptab
 
 In this example, our p-value is 0.0001, which is less than alpha. Thus, we can reject our null hypothesis and support the alternate hypothesis. Your clients do eat more fruit than the national average. You do deserve a raise and recognition!
 
-<img src="https://media.giphy.com/media/RGkZse25ddkVYWSqx9/giphy.gif" width="200" height="200" />
-
-![fruit](https://media.giphy.com/media/RGkZse25ddkVYWSqx9/giphy.gif)
-
+<img src="https://media.giphy.com/media/RGkZse25ddkVYWSqx9/giphy.gif" width="250" height="200" />
 
 ## Common Misconception of the p-value
 The p-value tells you about the likelihood of obtaining these results assuming that the average or expected value is correct or true. Thus, it tells you about how good your test is at finding an unexpected result. It does not however tell you anything about whether or not your sample is truly different than the what is expected due to chance, given the test statistic. 
